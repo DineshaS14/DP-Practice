@@ -1,0 +1,7 @@
+'''
+Give an O.n lg n/-time algorithm to ûnd the longest monotonically increasing sub-
+sequence of a sequence of n numbers. (Hint: The last element of a candidate subse-
+quence of length i is at least as large as the last element of a candidate subsequence
+of length i  1. Maintain candidate subsequences by linking them through the input
+sequence.
+'''
